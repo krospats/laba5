@@ -1,0 +1,1 @@
+void moveRowElement(int** matrixOfNums, int i, int indexOfNextElements, int** finalRowsLength);

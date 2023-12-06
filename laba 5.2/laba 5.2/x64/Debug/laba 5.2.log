@@ -1,0 +1,21 @@
+﻿  chooseTest1.c
+  chooseTest2.c
+  chooseTest3.c
+C:\Users\stoli\OneDrive\Рабочий стол\лабы\лаба №5\laba 5.2\laba 5.2\chooseTest3.c(6,8): warning C4047: инициализация: "int **" отличается по уровням косвенного обращения от "int *"
+  chooseUser.c
+  deleteMatrix.c
+  laba 5.2.c
+C:\Users\stoli\OneDrive\Рабочий стол\лабы\лаба №5\laba 5.2\laba 5.2\laba 5.2.c(16,43): warning C4047: функция: "int **" отличается по уровням косвенного обращения от "int *"
+C:\Users\stoli\OneDrive\Рабочий стол\лабы\лаба №5\laba 5.2\laba 5.2\laba 5.2.c(16,43): warning C4024: deleteMatrixElements: различные типы для формального и фактического параметров 3
+C:\Users\stoli\OneDrive\Рабочий стол\лабы\лаба №5\laba 5.2\laba 5.2\laba 5.2.c(17,39): warning C4047: функция: "int **" отличается по уровням косвенного обращения от "int *"
+C:\Users\stoli\OneDrive\Рабочий стол\лабы\лаба №5\laba 5.2\laba 5.2\laba 5.2.c(17,39): warning C4024: printFinalMatrix: различные типы для формального и фактического параметров 3
+  chooseMatrix.c
+  moveRowElement.c
+  printMatrix.c
+  deleteMatrixElements.c
+C:\Users\stoli\OneDrive\Рабочий стол\лабы\лаба №5\laba 5.2\laba 5.2\deleteMatrixElements.c(9,59): warning C4047: функция: "int **" отличается по уровням косвенного обращения от "int *"
+C:\Users\stoli\OneDrive\Рабочий стол\лабы\лаба №5\laba 5.2\laba 5.2\deleteMatrixElements.c(9,59): warning C4024: moveRowElement: различные типы для формального и фактического параметров 4
+  printFinalMatrix.c
+  Создание кода...
+C:\Users\stoli\OneDrive\Рабочий стол\лабы\лаба №5\laba 5.2\laba 5.2\chooseMatrix.c(39): warning C4715: chooseMatrix: значение возвращается не при всех путях выполнения
+  laba 5.2.vcxproj -> C:\Users\stoli\OneDrive\Рабочий стол\лабы\лаба №5\laba 5.2\x64\Debug\laba 5.2.exe
