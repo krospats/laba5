@@ -1,0 +1,1 @@
+int* chooseUser(int *arrayLength);

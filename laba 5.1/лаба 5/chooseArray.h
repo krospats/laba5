@@ -1,0 +1,1 @@
+int* chooseArray(int* arrayLength);
